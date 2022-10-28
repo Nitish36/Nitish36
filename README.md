@@ -1,3 +1,3 @@
 ### Hello all I am Nitish here
 ![Nitish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nitish36&count_private=true&show_icons=true&theme=midnight-purple)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nitish36&repo=github-readme-stats)](https://github.com/Nitish36/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitish36&langs_count=8)](https://github.com/Nitish36/github-readme-stats)
