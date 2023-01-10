@@ -4,4 +4,4 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Nitish36/count.svg" />
 </p>
-[![An image of @nitish36's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nitish36)](https://holopin.io/@nitish36)
+
