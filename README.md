@@ -4,4 +4,7 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Nitish36/count.svg" />
 </p>
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+
+## 🔗 Links
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Nitish36) 
+[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/nitish-k-5431641b2)
