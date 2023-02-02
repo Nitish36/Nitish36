@@ -36,6 +36,7 @@
 ![pycharm](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 
 ## 🔗 Links
-[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Nitish36) 
+<a href="[https://linkedin.com/in/sudharshan-tk](https://www.linkedin.com/in/nitish-k-5431641b2)" target="blank"><img align="center" src="https://icons8.com/icon/52539/github" alt="shantk18" height="30" width="40" />
+</a>
 <a href="[https://linkedin.com/in/sudharshan-tk](https://www.linkedin.com/in/nitish-k-5431641b2)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shantk18" height="30" width="40" />
 </a>
