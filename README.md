@@ -4,3 +4,4 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Nitish36/count.svg" />
 </p>
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
