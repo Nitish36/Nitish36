@@ -2,6 +2,9 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nitish36&theme=neon-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 ## 💻 GitHub Profile Stats
 
+### My Contribution Graph
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Nitish36&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+
 <p align="left"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Nitish36/count.svg" />
@@ -41,8 +44,7 @@
 ![pycharm](https://img.shields.io/badge/PyCharm-007ACC?style=for-the-badge&logo=Pycharm&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 
-### My Contribution Graph
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Nitish36&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+
 
 ## 🔗 You can connect with me on 
 <a href='https://www.linkedin.com/in/nitish-k-5431641b2/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
