@@ -6,7 +6,6 @@
 
 ### My Contribution Graph
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Nitish36&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-![Moon](https://raw.github.com/Nitish36/github-contribution-color-graph/master/docs/contributions-moon.png)
 
 <p align="left"> 
   Visitor count<br>
