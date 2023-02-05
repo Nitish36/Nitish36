@@ -47,3 +47,6 @@
 <a href='https://www.kaggle.com/freeman007'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
 
 
+## 🏷️ Holopin Badges
+
+<a href="https://holopin.io/@nitish36"><img src="https://holopin.me/nitish36" alt="nitish36;s Holopin board"></a>
