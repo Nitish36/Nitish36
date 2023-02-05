@@ -26,7 +26,7 @@
 ![pycharm](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 
 ### My Contribution Graph
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=zumrudu-anka&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Nitish36&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 ## 🔗 You can connect with me on 
 
