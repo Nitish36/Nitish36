@@ -13,12 +13,12 @@
 <a href="[https://www.python.org](https://www.w3schools.com/python/)" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="(https://www.w3schools.com/bootstrap5/)"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap5/bootstrap5-original-wordmark.svg" width="48" height="48" alt="Bootstrap" /></a>
+
 <a href="https://www.w3schools.com/js/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="#macropower-tech"><img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="Powershell" />
-      </a>
+</a>
 
 
 
@@ -32,5 +32,5 @@
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Nitish36&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 ## 🔗 You can connect with me on 
-
+<a href='https://www.linkedin.com/in/nitish-k-5431641b2/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 
