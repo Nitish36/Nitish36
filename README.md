@@ -8,7 +8,8 @@
 ## 🛠️ Skills
 
 ### Language
-
+<a href="[https://www.java.com](https://www.w3schools.com/java/)" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/js/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 
 ### Design and Development Tools
 ![canva](https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
@@ -16,4 +17,4 @@
 ![pycharm](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 
 ## 🔗 Links
-<a href="[https://www.java.com](https://www.w3schools.com/java/)" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+
