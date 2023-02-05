@@ -1,6 +1,11 @@
 ## 🔥 Streak Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nitish36&theme=neon-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+## 💻 GitHub Profile Stats
+<!-- https://github.com/Nitish36/github-readme-stats -->
 
+  <a href="https://github.com/Nitish36/github-readme-stats"><img alt="Nitish36 Github Stats" src="https://Nitish36-github-readme-stats.vercel.app/api/?username=Nitish36&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/Nitish36/github-readme-stats"><img alt="Nitish36 Top Languages" src="https://Nitish36-github-readme-stats.vercel.app/api/top-langs/?username=Nitish36&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <br/>
 <p align="left"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Nitish36/count.svg" />
