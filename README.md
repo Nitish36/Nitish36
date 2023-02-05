@@ -26,7 +26,9 @@
 ![pycharm](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 
 ## 🔗 You can connect with me on 
-[![website](./img/linkedin-light.svg)]([https://linkedin.com/in/codeSTACKr#gh-light-mode-only](https://www.linkedin.com/in/nitish-k-5431641b2/))
-[![website](./img/linkedin-dark.svg)]([https://linkedin.com/in/codeSTACKr#gh-dark-mode-only](https://www.linkedin.com/in/nitish-k-5431641b2/))
+
+[![https://www.linkedin.com/in/nitish-k-5431641b2/](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
+[![https://www.linkedin.com/in/nitish-k-5431641b2/](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
 &nbsp;&nbsp;
+
 
