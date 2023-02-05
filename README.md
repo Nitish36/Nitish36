@@ -33,10 +33,9 @@
 <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
 <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
 ![canva](https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-<a href="#"><img alt="Canva" src="https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"></a>
 <a href="#"><img alt="Dark Reader" src="https://img.shields.io/badge/-Dark%20Reader-141E24?logo=dark-reader&logoColor=white"></a>
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
-![pycharm](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Pycharm&logoColor=white)
+![pycharm](https://img.shields.io/badge/PyCharm-007ACC?style=for-the-badge&logo=Pycharm&logoColor=white)
 
 ### My Contribution Graph
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Nitish36&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
