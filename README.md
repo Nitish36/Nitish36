@@ -32,7 +32,7 @@
 <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
 <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
 <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
-![Android Studio](https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white)
+![Android Studio](https://img.shields.io/badge/AndroidStudio-008678.svg?logo=android-studio&logoColor=white)
 ![canva](https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 ![pycharm](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Pycharm&logoColor=white)
