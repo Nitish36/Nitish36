@@ -1,7 +1,7 @@
 ## 🔥 Streak Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nitish36&theme=neon-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 ## 💻 GitHub Profile Stats
-<a href="https://github.com/Nitish36/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Nitish36&show_icons=true&include_all_commits=true&theme=onedark&hide_border=true" alt="Nitish's github stats" /></a> | 
+<a href="https://github.com/Nitish36/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Nitish36&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Nitish's github stats" /></a> | 
 <a href="https://github.com/Nitish36/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitish36&layout=compact&theme=buefy&hide_border=true" /></a> 
 
 ### My Contribution Graph
