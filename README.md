@@ -34,7 +34,7 @@
 <a href="#"><img height="50" img alt="Bootstrap" src="https://img.icons8.com/color/1x/bootstrap.png"></a>
 <a href="#"><img height="50" img alt="Flask" src="https://img.icons8.com/nolan/1x/flask.png"></a>
 <a href="#"><img height="50" img alt="NumPy" src="https://img.icons8.com/color/1x/numpy.png"></a>
-<a href="#"><img height="50" img alt="Pandas" src="https://img.icons8.com/ios-filled/1x/panda.png"></a>
+<a href="#"><img height="50" img alt="Pandas" src="https://img.icons8.com/color/1x/pandas.png"></a>
 
 
 
