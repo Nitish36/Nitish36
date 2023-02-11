@@ -43,9 +43,11 @@
 <a href="#"><img height="40" img alt="Android" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Android-64.png"></a>
 <a href="#"><img height="40" img alt="Canva" src="https://img.icons8.com/fluency/1x/canva.png"></a>
 <a href="#"><img height="40" img alt="Dark Reader" src="https://img.icons8.com/nolan/1x/darth-vader.png"></a>
+<a href="#"><img height="40" img alt="Eclipse" src="https://img.icons8.com/officel/1x/java-eclipse.png"></a>
 <a href="#"><img height="40" img alt="Inkscape" src="https://cdn2.iconfinder.com/data/icons/flurry-icons-for-deviants/256/inkscape_256x256x32.png"></a>
 <a href="#"><img height="40" img alt="Jupyter" src="https://img.icons8.com/fluency/1x/jupyter.png"></a>
 <a href="#"><img height="40" img alt="Pycharm" src="https://img.icons8.com/nolan/1x/pycharm.png"></a>
+<a href="#"><img height="40" img alt="Sublime Text Editor" src="https://img.icons8.com/nolan/1x/sublime-text-new-logo.png"></a>
 <a href="#"><img height="40" img alt="VS Code" src="https://img.icons8.com/fluency/1x/visual-studio-code-2019.png"></a>
 
 
