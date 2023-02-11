@@ -54,7 +54,7 @@
 <a href='https://www.linkedin.com/in/nitish-k-5431641b2/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 <a href='https://www.kaggle.com/freeman007'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
 <a href="https://www.instagram.com/thepiyushmalhotra/">
-  <img height="50" src="https://www.iconfinder.com/icons/3225190/app_linkedin_logo_media_popular_social_icon"/>
+  <img height="50" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_linkedin-64.png"/>
 </a>
 
 
