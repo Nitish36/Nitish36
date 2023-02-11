@@ -42,10 +42,10 @@
 <a href="#"><img height="40" img alt="Android" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Android-64.png"></a>
 <a href="#"><img height="40" img alt="Canva" src="https://img.icons8.com/fluency/1x/canva.png"></a>
 <a href="#"><img height="40" img alt="Dark Reader" src="https://img.icons8.com/nolan/1x/darth-vader.png"></a>
-<a href="#"><img alt="Inkscape" src="https://img.shields.io/badge/Inkscape-000000?logo=Inkscape&logoColor=white"></a>
-<a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
-![pycharm](https://img.shields.io/badge/PyCharm-007ACC?style=for-the-badge&logo=Pycharm&logoColor=white)
-![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
+<a href="#"><img height="40" img alt="Inkscape" src="https://cdn2.iconfinder.com/data/icons/flurry-icons-for-deviants/256/inkscape_256x256x32.png"></a>
+<a href="#"><img height="40" img alt="Jupyter" src="https://img.icons8.com/fluency/1x/jupyter.png"></a>
+<a href="#"><img height="40" img alt="Pycharm" src="https://img.icons8.com/nolan/1x/pycharm.png"></a>
+<a href="#"><img height="40" img alt="VS Code" src="https://img.icons8.com/fluency/1x/visual-studio-code-2019.png"></a>
 
 
 
