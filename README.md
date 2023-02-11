@@ -39,8 +39,8 @@
 
 ### Design and Development Tools
 <a href="#"><img height="60" img alt="Adobe" src="https://cdn1.iconfinder.com/data/icons/hex-ico/128/adobe.png"></a>
-<a href="#"><img alt="Android" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Android-64.png"></a>
-<a href="#"><img alt="Canva" src="https://img.icons8.com/fluency/1x/canva.png"></a>
+<a href="#"><img height="60" img alt="Android" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Android-64.png"></a>
+<a href="#"><img height="60" img alt="Canva" src="https://img.icons8.com/fluency/1x/canva.png"></a>
 <a href="#"><img alt="Dark Reader" src="https://img.shields.io/badge/-Dark%20Reader-141E24?logo=dark-reader&logoColor=white"></a>
 <a href="#"><img alt="Inkscape" src="https://img.shields.io/badge/Inkscape-000000?logo=Inkscape&logoColor=white"></a>
 <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
