@@ -40,7 +40,7 @@
 ### Design and Development Tools
 <a href="#"><img height="50" img alt="Adobe" src="https://cdn1.iconfinder.com/data/icons/hex-ico/128/adobe.png"></a>
 <a href="#"><img alt="Android" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Android-64.png"></a>
-<a href="#"><img alt="Canva" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fassets.materialup.com%2Fuploads%2F8a995ca1-3b7f-40b3-b0a0-9c866d3db113%2Fpreview.jpg&imgrefurl=https%3A%2F%2Fwww.uplabs.com%2Fposts%2Fcanva-ios-icon&tbnid=BOCHVkSkGczf3M&vet=12ahUKEwjn1oX96Yz9AhUy9XMBHSafBqsQMygFegUIARDuAQ..i&docid=cN6BhivQSuGRaM&w=512&h=512&q=canva%20icon&ved=2ahUKEwjn1oX96Yz9AhUy9XMBHSafBqsQMygFegUIARDuAQ"></a>
+<a href="#"><img alt="Canva" src="https://img.icons8.com/fluency/1x/canva.png"></a>
 <a href="#"><img alt="Dark Reader" src="https://img.shields.io/badge/-Dark%20Reader-141E24?logo=dark-reader&logoColor=white"></a>
 <a href="#"><img alt="Inkscape" src="https://img.shields.io/badge/Inkscape-000000?logo=Inkscape&logoColor=white"></a>
 <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
