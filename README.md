@@ -31,10 +31,10 @@
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
 
 ### Frameworks and Libraries
-<a href="#"><img alt="Bootstrap" src="https://img.icons8.com/color/1x/bootstrap.png"></a>
-<a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white"></a>
-<a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
-<a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
+<a href="#"><img height="40" img alt="Bootstrap" src="https://img.icons8.com/color/1x/bootstrap.png"></a>
+<a href="#"><img height="40" img alt="Flask" src="https://img.icons8.com/nolan/1x/flask.png"></a>
+<a href="#"><img height="40" img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
+<a href="#"><img height="40" img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
 
 
 
