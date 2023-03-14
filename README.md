@@ -57,6 +57,8 @@
 <a href='https://www.kaggle.com/freeman007'><img height="50" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-64.png" height='18px'/></a>
 <a href="https://dev.to/nitish36"><img height="50" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/84_Dev-64.png"/></a>
 <a href="https://wa.me/+917975722193"><img height="50" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo-whatsapp-64.png"/></a>
+<a href="https://developers.google.com/profile/u/105499139390240477820"><img height="50" src="https://img.icons8.com/color/2x/google-code.png"/></a>
+
 
 
 
