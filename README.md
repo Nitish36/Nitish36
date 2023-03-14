@@ -58,7 +58,7 @@
 <a href="https://dev.to/nitish36"><img height="50" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/84_Dev-64.png"/></a>
 <a href="https://wa.me/+917975722193"><img height="50" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo-whatsapp-64.png"/></a>
 <a href="https://developers.google.com/profile/u/105499139390240477820"><img height="50" src="https://img.icons8.com/color/2x/google-code.png"/></a>
-
+<a href="https://stackoverflow.com/users/19821239/nitish-k"><img height="50" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/1x/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-shadow-tal-revivo.png"/></a>
 
 
 
