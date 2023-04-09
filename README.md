@@ -66,4 +66,4 @@
 
 ## 🏷️ Holopin Badges
 
-<a href="https://holopin.me/nitish36"><img src="https://holopin.io/@nitish36" alt="nitish36;s Holopin board"></a>
+<a href="https://holopin.io/@nitish36"><img src="https://holopin.me/nitish36" alt="nitish36;s Holopin board"></a>
