@@ -1,5 +1,17 @@
 ## Profile
 
+Hi all
+I am Nitish k, currently working as a Data Engineer Intern at the [Nineleaps Technologies](https://www.nineleaps.com/). Find out more about me & feel free to connect with me here
+
+
+## 🔗 You can connect with me on 
+<a href="https://www.linkedin.com/in/nitish-k-5431641b2/"><img height="50" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_linkedin-64.png"/></a>
+<a href='https://www.kaggle.com/freeman007'><img height="50" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-64.png" height='18px'/></a>
+<a href="https://dev.to/nitish36"><img height="50" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/84_Dev-64.png"/></a>
+<a href="https://wa.me/+917975722193"><img height="50" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo-whatsapp-64.png"/></a>
+<a href="https://developers.google.com/profile/u/105499139390240477820"><img height="50" src="https://img.icons8.com/color/2x/google-code.png"/></a>
+<a href="https://stackoverflow.com/users/19821239/nitish-k"><img height="50" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/1x/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-shadow-tal-revivo.png"/></a>
+
 ## 🔥 Streak Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nitish36&theme=neon-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 ## 💻 GitHub Profile Stats
@@ -50,19 +62,6 @@
 <a href="#"><img height="40" img alt="Pycharm" src="https://img.icons8.com/nolan/1x/pycharm.png"></a>
 <a href="#"><img height="40" img alt="Sublime Text Editor" src="https://img.icons8.com/nolan/1x/sublime-text-new-logo.png"></a>
 <a href="#"><img height="40" img alt="VS Code" src="https://img.icons8.com/fluency/1x/visual-studio-code-2019.png"></a>
-
-
-
-## 🔗 You can connect with me on 
-<a href="https://www.linkedin.com/in/nitish-k-5431641b2/"><img height="50" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_linkedin-64.png"/></a>
-<a href='https://www.kaggle.com/freeman007'><img height="50" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-64.png" height='18px'/></a>
-<a href="https://dev.to/nitish36"><img height="50" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/84_Dev-64.png"/></a>
-<a href="https://wa.me/+917975722193"><img height="50" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo-whatsapp-64.png"/></a>
-<a href="https://developers.google.com/profile/u/105499139390240477820"><img height="50" src="https://img.icons8.com/color/2x/google-code.png"/></a>
-<a href="https://stackoverflow.com/users/19821239/nitish-k"><img height="50" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/1x/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-shadow-tal-revivo.png"/></a>
-
-
-
 
 ## 🏷️ Holopin Badges
 
