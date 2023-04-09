@@ -11,6 +11,7 @@ I am Nitish k, currently working as a Data Engineer Intern at the [Nineleaps Tec
 <a href="https://wa.me/+917975722193"><img height="50" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo-whatsapp-64.png"/></a>
 <a href="https://developers.google.com/profile/u/105499139390240477820"><img height="50" src="https://img.icons8.com/color/2x/google-code.png"/></a>
 <a href="https://stackoverflow.com/users/19821239/nitish-k"><img height="50" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/1x/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-shadow-tal-revivo.png"/></a>
+<a href="https://discord.com/channels/@me"><img height="50" src="https://cdn0.iconfinder.com/data/icons/social-media-2475/128/discord_message_interaction_logo_communication-64.png"/></a>
 
 ## 🔥 Streak Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nitish36&theme=neon-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
