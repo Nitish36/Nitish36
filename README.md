@@ -16,7 +16,7 @@ Link for my portfolio website [Portfolio Website](https://nitish36.github.io/Nit
 
 ## :muscle: Achievements
 ![Pull Shark](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png)
-https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png
+![Yolo](https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png)
 
 ## 🔥 Streak Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nitish36&theme=neon-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
