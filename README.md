@@ -14,6 +14,10 @@ Link for my portfolio website [Portfolio Website](https://nitish36.github.io/Nit
 <a href="https://stackoverflow.com/users/19821239/nitish-k"><img height="50" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/1x/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-shadow-tal-revivo.png"/></a>
 <a href="https://discord.com/channels/@me"><img height="50" src="https://cdn0.iconfinder.com/data/icons/social-media-2475/128/discord_message_interaction_logo_communication-64.png"/></a>
 
+## :muscle: Achievements
+https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png
+https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png
+
 ## 🔥 Streak Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nitish36&theme=neon-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 ## 💻 GitHub Profile Stats
