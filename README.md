@@ -26,7 +26,7 @@ Link for my portfolio website [Portfolio Website](https://nitish36.github.io/Nit
 
 
 ### My Contribution Graph
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Nitish36&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+[![Nitish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nitish36&theme=github-compact)](https://github.com/Nitish36/github-readme-activity-graph)
 
 <p align="left"> 
   Visitor count<br>
