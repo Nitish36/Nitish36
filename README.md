@@ -1,7 +1,7 @@
 ## Profile
 
 Hi all
-I am Nitish k, currently working as a Data Engineer Intern at the [Nineleaps Technologies](https://www.nineleaps.com/). Find out more about me & feel free to connect with me here
+I am Nitish k, currently working as a Operation Trainee Analyst in [Design Cafe](https://www.designcafe.com/). Find out more about me & feel free to connect with me here
 Link for my portfolio website [Portfolio Website](https://nitish36.github.io/Nitish.github.io/)
 
 ## 🔥 Streak Stats
