@@ -15,6 +15,9 @@ Link for my portfolio website [Portfolio Website](https://nitish36.github.io/Nit
 ![Pull Shark](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png)
 ![Yolo](https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png)
 
+## 📊 GitHub Trophies:
+[![trophy](https://github-profile-trophy.vercel.app/?username=Nitish36)](https://github.com/Nitish36/github-profile-trophy)
+
 ### My Contribution Graph
 [![Nitish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nitish36&theme=tokyo-night&area=true)](https://github.com/Nitish36/github-readme-activity-graph)
 
