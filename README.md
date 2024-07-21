@@ -20,7 +20,7 @@ Hi all
 -   🥈 Made 4 valid PR contributions on github repositories during the Hacktoberfest
 -   🥉 Created and published 4 APIs on RapidAPI.com using FastAPI
 -   ![Pull Shark](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png)
--   ![Yolo](https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png)
+  ![Yolo](https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png)
 
 
 ## 🔥 Streak Stats
