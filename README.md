@@ -3,6 +3,7 @@
 ## 🚀 About Me
 
 Hi all
+
 🎓 I am Nitish K , a passionate fresh graduate with a solid 11-month track record in data analytics. Ready to transform raw data into actionable insights, I thrive on unraveling complex patterns and turning them into compelling stories for informed decision-making.
 
 👨‍💻 I enjoy scrapping data from websites, transforming them into proper format and then performing various EDA analysis and storing it into various databases and visualizing the same using BI tools
@@ -18,6 +19,8 @@ Hi all
 -   🤝 **Hacktober Fest Participant** for _adding quality pull requests at Hacktober Fest 2023_.
 -   🥈 Made 4 valid PR contributions on github repositories during the Hacktoberfest
 -   🥉 Created and published 4 APIs on RapidAPI.com using FastAPI
+-   ![Pull Shark](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png)
+-   ![Yolo](https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png)
 
 
 ## 🔥 Streak Stats
@@ -28,8 +31,7 @@ Hi all
 
 
 ## :muscle: Achievements
-![Pull Shark](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png)
-![Yolo](https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png)
+
 
 ## 📊 GitHub Trophies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=Nitish36)](https://github.com/Nitish36/github-profile-trophy)
