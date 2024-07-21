@@ -1,8 +1,24 @@
 ## Profile
 
+## 🚀 About Me
+
 Hi all
-I am Nitish k, currently working as a Operation Trainee Analyst in [Design Cafe](https://www.designcafe.com/). Find out more about me & feel free to connect with me here
-Link for my portfolio website [Portfolio Website](https://nitish36.github.io/Nitish.github.io/)
+🎓 I am Nitish K , a passionate fresh graduate with a solid 11-month track record in data analytics. Ready to transform raw data into actionable insights, I thrive on unraveling complex patterns and turning them into compelling stories for informed decision-making.
+
+👨‍💻 I enjoy scrapping data from websites, transforming them into proper format and then performing various EDA analysis and storing it into various databases and visualizing the same using BI tools
+
+👨‍💻 I also enjoy contributing to **Open Source Projects**. Recently I had contributed on various github repository during Hacktoberfest 2023. These included preparing a good code documentation, enchancing UI of webpages and also building small websites.
+
+🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **Badminton**, **Chess** and ** FPS Games **.
+
+✈️ I love **traveling** too. I have travelled to various places with friends and also family.
+
+## 🏅 Achievements
+
+-   🤝 **Hacktober Fest Participant** for _adding quality pull requests at Hacktober Fest 2023_.
+-   🥈 Made 4 valid PR contributions on github repositories during the Hacktoberfest
+-   🥉 Created and published 4 APIs on RapidAPI.com using FastAPI
+
 
 ## 🔥 Streak Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nitish36&theme=neon-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
