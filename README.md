@@ -67,7 +67,6 @@ Hi all
 
 ### Design and Development Tools
 <a href="#"><img height="40" img alt="Adobe" src="https://cdn1.iconfinder.com/data/icons/hex-ico/128/adobe.png"></a>
-<a href="#"><img height="40" img alt="Android" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Android-64.png"></a>
 <a href="#"><img height="40" img alt="Canva" src="https://img.icons8.com/fluency/1x/canva.png"></a>
 <a href="#"><img height="40" img alt="Dark Reader" src="https://img.icons8.com/nolan/1x/darth-vader.png"></a>
 <a href="#"><img height="40" img alt="Eclipse" src="https://img.icons8.com/officel/1x/java-eclipse.png"></a>
