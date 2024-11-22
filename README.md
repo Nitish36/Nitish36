@@ -50,23 +50,16 @@ Hi all
 ![Demo](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg).![Demo](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg)
 
 ### Frameworks and Libraries
-<a href="#"><img height="50" img alt="Bootstrap" src="https://img.icons8.com/color/1x/bootstrap.png"></a>
-<a href="#"><img height="50" img alt="Flask" src="https://img.icons8.com/nolan/1x/flask.png"></a>
+![Demo](https://ziadoua.github.io/m3-Markdown-Badges/badges/Flask/flask2.svg)
 <a href="#"><img height="50" img alt="NumPy" src="https://img.icons8.com/color/1x/numpy.png"></a>
 <a href="#"><img height="50" img alt="Pandas" src="https://img.icons8.com/color/1x/pandas.png"></a>
 
 
 
 ### Design and Development Tools
-<a href="#"><img height="40" img alt="Adobe" src="https://cdn1.iconfinder.com/data/icons/hex-ico/128/adobe.png"></a>
 <a href="#"><img height="40" img alt="Canva" src="https://img.icons8.com/fluency/1x/canva.png"></a>
-<a href="#"><img height="40" img alt="Dark Reader" src="https://img.icons8.com/nolan/1x/darth-vader.png"></a>
-<a href="#"><img height="40" img alt="Eclipse" src="https://img.icons8.com/officel/1x/java-eclipse.png"></a>
-<a href="#"><img height="40" img alt="Inkscape" src="https://cdn2.iconfinder.com/data/icons/flurry-icons-for-deviants/256/inkscape_256x256x32.png"></a>
-<a href="#"><img height="40" img alt="Jupyter" src="https://img.icons8.com/fluency/1x/jupyter.png"></a>
-<a href="#"><img height="40" img alt="Pycharm" src="https://img.icons8.com/nolan/1x/pycharm.png"></a>
 <a href="#"><img height="40" img alt="Sublime Text Editor" src="https://img.icons8.com/nolan/1x/sublime-text-new-logo.png"></a>
-<a href="#"><img height="40" img alt="VS Code" src="https://img.icons8.com/fluency/1x/visual-studio-code-2019.png"></a>
+![Demo](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg). ![Demo](https://ziadoua.github.io/m3-Markdown-Badges/badges/PyCharm/pycharm2.svg)
 
 ## 🔗 You can connect with me on 
 <a href="https://www.linkedin.com/in/nitish-k-5431641b2/"><img height="50" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_linkedin-64.png"/></a>
