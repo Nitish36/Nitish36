@@ -41,10 +41,10 @@ Hi all
 ## 🛠️ Skills
 
 ### Language
-![Demo](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python1.svg).![Demo](https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql1.svg)
+![Demo](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python1.svg).![Demo](https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql1.svg).[!Demo](https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java3.svg).[!Demo](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg).[!Demo](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg)
 
 ### Databases
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+[!Demo](https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql1.svg).[!Demo](https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLite/sqlite1.svg).[!Demo](https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb2.svg)
 
 ### Version Controls
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
