@@ -61,12 +61,13 @@ Hi all
 <a href="#"><img height="40" img alt="Sublime Text Editor" src="https://img.icons8.com/nolan/1x/sublime-text-new-logo.png"></a>
 ![Demo](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg). ![Demo](https://ziadoua.github.io/m3-Markdown-Badges/badges/PyCharm/pycharm2.svg)
 
+### APIs
+![Demo](https://ziadoua.github.io/m3-Markdown-Badges/badges/FastAPI/fastapi1.svg)
+
 ## 🔗 You can connect with me on 
 <a href="https://www.linkedin.com/in/nitish-k-5431641b2/"><img height="50" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_linkedin-64.png"/></a>
 <a href='https://www.kaggle.com/freeman007'><img height="50" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-64.png" height='18px'/></a>
-<a href="https://dev.to/nitish36"><img height="50" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/84_Dev-64.png"/></a>
 <a href="https://wa.me/+917975722193"><img height="50" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo-whatsapp-64.png"/></a>
-<a href="https://developers.google.com/profile/u/105499139390240477820"><img height="50" src="https://img.icons8.com/color/2x/google-code.png"/></a>
 <a href="https://stackoverflow.com/users/19821239/nitish-k"><img height="50" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/1x/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-shadow-tal-revivo.png"/></a>
 <a href="https://discord.com/channels/@me"><img height="50" src="https://cdn0.iconfinder.com/data/icons/social-media-2475/128/discord_message_interaction_logo_communication-64.png"/></a>
 
