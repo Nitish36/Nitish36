@@ -4,15 +4,13 @@
 
 Hi all
 
-🎓 I am Nitish K , a passionate fresh graduate with a solid 11-month track record in data analytics. Ready to transform raw data into actionable insights, I thrive on unraveling complex patterns and turning them into compelling stories for informed decision-making.
+🎓  I am a passionate and driven data professional with a Bachelor of Engineering in Computer Science and 1 year of hands-on experience in data analytics, data engineering, and operations. Currently, I am actively seeking opportunities in Data Analytics, Data Operations, Product Analysis, and Data Engineering roles.
 
-👨‍💻 I enjoy scrapping data from websites, transforming them into proper format and then performing various EDA analysis and storing it into various databases and visualizing the same using BI tools
+👨‍💻 My expertise lies in transforming raw data into actionable insights using Python, SQL, Prefect and Power BI, creating meaningful visualizations and dashboards that empower data-driven decision-making.
 
-👨‍💻 I also enjoy contributing to **Open Source Projects**. Recently I had contributed on various github repository during Hacktoberfest 2023. These included preparing a good code documentation, enchancing UI of webpages and also building small websites.
+👨‍💻  I've also led projects involving data scraping and API integration, developing automated pipelines with Selenium and Prefect, and visualizing results using Google Looker Studio. In addition, I’ve published multiple APIs on RapidAPI and created interactive dashboards for weather and Airbnb projects.
 
-🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **Badminton**, **Chess** and **FPS Games**.
-
-✈️ I love **traveling** too. I have travelled to various places with friends and also family.
+👨‍💻 Currently, I’m expanding my technical skillset into app development with the Kivy Python framework, allowing me to design and develop applications alongside my core data skills.
 
 ## 🏅 Achievements
 
@@ -42,11 +40,10 @@ Hi all
 ## 🛠️ Skills
 
 ### Language
-<a href="[https://www.java.com](https://www.w3schools.com/java/)" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <a href="[https://www.python.org](https://www.w3schools.com/python/)" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/js/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="[https://www.java.com](https://www.w3schools.com/java/)" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 
 ### Databases
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
