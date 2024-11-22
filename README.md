@@ -12,6 +12,9 @@ Hi all
 
 👨‍💻 Currently, I’m expanding my technical skillset into app development with the Kivy Python framework, allowing me to design and develop applications alongside my core data skills.
 
+[![PyPI download day](https://img.shields.io/pypi/dd/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/) &nbsp; [![GitHub forks](https://badgen.net/github/forks/Nitish36/Strapdown.js/)](https://GitHub.com/Nitish36/StrapDown.js/network/) &nbsp; [![GitHub stars](https://img.shields.io/github/stars/Nitish36/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Nitish36/StrapDown.js/stargazers/)
+
+
 ## 🏅 Achievements
 
 -   🤝 **Hacktober Fest Participant** for _adding quality pull requests at Hacktober Fest 2023_.
