@@ -33,9 +33,13 @@ Hi all
 ### My Contribution Graph
 [![Nitish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nitish36&theme=tokyo-night&area=true)](https://github.com/Nitish36/github-readme-activity-graph)
 
-<p align="left"> 
+<p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Nitish36/count.svg" />
+
+  Counting of visitors to this page in this section started from May 1, 2022
+
+  <a href="https://info.flagcounter.com/jFGM"><img src="https://s01.flagcounter.com/count2/jFGM/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 </p>
 
 ## 🛠️ Skills
@@ -63,6 +67,8 @@ Hi all
 
 ### APIs
 ![Demo](https://ziadoua.github.io/m3-Markdown-Badges/badges/FastAPI/fastapi1.svg)
+
+
 
 ## 🔗 You can connect with me on 
 <a href="https://www.linkedin.com/in/nitish-k-5431641b2/"><img height="50" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_linkedin-64.png"/></a>
