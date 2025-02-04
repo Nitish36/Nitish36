@@ -25,7 +25,7 @@ Hi all
 ## 💻 GitHub Profile Stats
 <a href="https://github.com/Nitish36/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Nitish36&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Nitish's github stats" /></a>
 <p align="center">
-  ![Nitish36 github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=Nitish36)
+  <img width=720 src="https://stats.dooboo.io/api/github-stats-advanced?login=Nitish36" alt="hyochan github-stats"><br>
 </p>
 
 ## 📊 GitHub Trophies:
