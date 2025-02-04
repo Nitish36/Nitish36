@@ -25,11 +25,11 @@ Hi all
 ## 💻 GitHub Profile Stats
 <a href="https://github.com/Nitish36/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Nitish36&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Nitish's github stats" /></a>
 <p align="center">
-  <img width=720 src="https://stats.dooboo.io/api/github-trophies?login=Nitish36" alt="hyochan github-trophies">
+  ![Nitish36 github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=Nitish36)
 </p>
 
 ## 📊 GitHub Trophies:
-<img width=720 src="https://stats.dooboo.io/api/github-trophies?login=Nitish36" alt="hyochan github-trophies">
+![Nitish36 github-trophies](https://stats.dooboo.io/api/github-trophies?login=Nitish36)
 
 ### My Contribution Graph
 [![Nitish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nitish36&theme=tokyo-night&area=true)](https://github.com/Nitish36/github-readme-activity-graph)
