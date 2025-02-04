@@ -23,12 +23,13 @@ Hi all
 ## 🔥 Streak Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nitish36&theme=neon-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 ## 💻 GitHub Profile Stats
-<a href="https://github.com/Nitish36/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Nitish36&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Nitish's github stats" /></a> | 
-<a href="https://github.com/Nitish36/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitish36&layout=compact&theme=dracula&hide_border=true" /></a> 
-
+<a href="https://github.com/Nitish36/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Nitish36&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Nitish's github stats" /></a>
+<p align="center">
+  <img width=720 src="https://stats.dooboo.io/api/github-trophies?login=Nitish36" alt="hyochan github-trophies">
+</p>
 
 ## 📊 GitHub Trophies:
-[![trophy](https://github-profile-trophy.vercel.app/?username=Nitish36)](https://github.com/Nitish36/github-profile-trophy)
+<img width=720 src="https://stats.dooboo.io/api/github-trophies?login=Nitish36" alt="hyochan github-trophies">
 
 ### My Contribution Graph
 [![Nitish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nitish36&theme=tokyo-night&area=true)](https://github.com/Nitish36/github-readme-activity-graph)
