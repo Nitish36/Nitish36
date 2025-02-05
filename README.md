@@ -71,6 +71,8 @@ Hi all
 ### APIs
 ![Demo](https://ziadoua.github.io/m3-Markdown-Badges/badges/FastAPI/fastapi1.svg)
 
+## Profile Summary
+![image](https://github.com/user-attachments/assets/e3e3e475-0a7a-4dcb-b8dc-2fa44285b285)
 
 
 ## 🔗 You can connect with me on 
