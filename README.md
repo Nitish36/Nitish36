@@ -15,6 +15,7 @@ Hi all
 
 ## 🏅 Achievements
 
+-   🤝 **Star Performer for JAS quarter of Design Cafe** for creating Allocation based program for equal opportunity distribution among the CT People.
 -   🤝 **Hacktober Fest Participant** for _adding quality pull requests at Hacktober Fest 2023_.
 -   🥈 Made 4 valid PR contributions on github repositories during the Hacktoberfest
 -   🥉 Created and published 4 APIs on RapidAPI.com using FastAPI
