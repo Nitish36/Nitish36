@@ -55,6 +55,11 @@ Hi all
 ### Version Controls
 ![Demo](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg).![Demo](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg)
 
+### Visualizations
+<a href="#"><img width="110" height="110" img alt="Power BI" src="https://github.com/user-attachments/assets/ec0cd8e6-46db-4ea3-9bf9-584aceef14f2"></a>
+<a href="#"><img width="110" height="110" img alt="Power BI" src="https://github.com/user-attachments/assets/0eaa94f0-f87e-44db-acc9-6c3277d9875c"></a>
+<a href="#"><img width="150" height="110" img alt="Power BI" src="https://github.com/user-attachments/assets/a2cdbf73-ee90-4267-bd9e-cf638a6e6a02"></a>
+
 ### Frameworks and Libraries
 ![Demo](https://ziadoua.github.io/m3-Markdown-Badges/badges/Flask/flask2.svg)
 <a href="#"><img height="50" img alt="NumPy" src="https://img.icons8.com/color/1x/numpy.png"></a>
