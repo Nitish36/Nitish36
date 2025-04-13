@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  ![image](https://github.com/user-attachments/assets/8b3bb78d-ee8f-4856-96ba-c93201aa3a57)
+  <img width="1280px "height="450px" src="https://github.com/user-attachments/assets/8b3bb78d-ee8f-4856-96ba-c93201aa3a57"/>
 </p>
 
 ---
