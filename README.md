@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/Nitish36/Nitish36/raw/main/assets/banner.png" alt="Banner"/>
+  ![image](https://github.com/user-attachments/assets/8b3bb78d-ee8f-4856-96ba-c93201aa3a57)
 </p>
 
 ---
