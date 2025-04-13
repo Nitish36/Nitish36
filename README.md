@@ -1,116 +1,144 @@
-<h1 align="center">Hi 👋, I'm Nitish K</h1>
-<h3 align="center">A data enthusiast passionate about turning raw data into powerful insights</h3>
+---
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&width=435&lines=Hey!+I'm+Nitish+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!;Data+Analytics+%7C+Engineering+%7C+Visualization"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Nitish36/Nitish36/raw/main/assets/banner.png" alt="Banner"/>
+</p>
 
 ---
 
 ## 🚀 About Me
 
-🎓 I'm a Computer Science graduate with 1 year of experience in **Data Analytics**, **Data Engineering**, and **Operations**.  
-🌟 I specialize in crafting data-driven stories with **Python**, **SQL**, **Power BI**, and **Prefect**.  
-📊 Skilled in transforming data into dashboards and automating pipelines using **APIs**, **Selenium**, and **Google Looker Studio**.  
-🚀 I’ve also published APIs on **RapidAPI**, and am exploring **App Development** using **Kivy** to merge backend data logic with frontend apps.  
-📌 Actively looking for roles in **Data Analytics**, **Product Analysis**, or **Data Engineering**.
+🎓 I am a passionate and driven data professional with a Bachelor of Engineering in Computer Science and 1 year of hands-on experience in data analytics, data engineering, and operations.
+
+🔍 I am actively seeking roles in **Data Analytics, Data Operations, Product Analysis, and Data Engineering**.
+
+👨‍💻 I love transforming raw data into actionable insights using **Python, SQL, Prefect**, and **Power BI**, and building dashboards that fuel data-driven decisions.
+
+🛠️ I’ve built projects with **web scraping**, **APIs**, and **automated pipelines** using **Selenium**, **FastAPI**, and **Looker Studio**. Published APIs on **RapidAPI**, and developed interactive dashboards.
+
+📱 Exploring app development with **Kivy** to build lightweight UIs with Python.
+
 
 ---
 
 ## 🏅 Achievements
 
-- 🏆 **Star Performer (JAS Quarter - DesignCafe)**  
-- 🎉 **Hacktoberfest 2023 Participant** with 4 valid PRs  
-- 🌐 **Published 4 APIs** using FastAPI on RapidAPI.com  
-- 🛠️ Built automated projects involving scraping, ETL pipelines & visual analytics  
+- 🏆 **Star Performer** (JAS Quarter at DesignCafe) for designing a CT Allocation System.
+- 🌐 **Hacktoberfest 2023 Contributor** – Made 4 valid PRs.
+- 🚀 Published **4 APIs** on RapidAPI using **FastAPI**.
+
 
 ---
 
-## 🔧 Tech Stack & Tools
+## 📂 Projects
 
-### 💻 Languages & Frameworks
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql)
-![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)
+| Project | Description |
+|--------|-------------|
+| [🌦️ Live Weather ETL](https://github.com/Nitish36/Live-WeatherData-ETL) | Real-time weather data ETL pipeline with Prefect, FastAPI & Looker Studio |
+| [☕ Coffee Project](https://github.com/Nitish36/Coffee-Project) | Sales analytics & dashboarding for a coffee business |
+| [🇧🇷 Brazil Customer Analysis](https://github.com/Nitish36/Brazil-Customer-Analysis) | Customer behavior analysis with data visualization |
+| [🏠 Airbnb ETL](https://github.com/Nitish36/airbnb-etl) | Airbnb listings data pipeline and reporting using Prefect |
 
-### 🛢️ Databases & Sheets
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
-![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
-<img src="https://img.icons8.com/color/48/000000/google-sheets.png" width="24"/>
-<img src="https://img.icons8.com/color/48/000000/smartsheet.png" width="24"/>
-
-### 📊 Visualization Tools
-<img src="https://img.icons8.com/color/48/000000/power-bi.png" width="24"/>
-<img src="https://img.icons8.com/color/48/000000/google-data-studio.png" width="24"/>
-
-### 🧰 Libraries & Tools
-![Pandas](https://img.icons8.com/color/48/000000/pandas.png)
-![NumPy](https://img.icons8.com/color/48/000000/numpy.png)
-![Prefect](https://img.shields.io/badge/-Prefect-05122A?style=flat)
-![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=selenium)
-
-### 🧑‍💻 Dev Tools
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code)
-![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=pycharm)
-<img src="https://img.icons8.com/color/48/000000/canva.png" width="24"/>
+🔗 [Visit my portfolio](https://nitish36.github.io/Nitish-Data-Analyst-Portfolio/)
 
 ---
 
-## 📈 GitHub Stats
+## 💡 Toggle Dark / Light Mode (for fun 🌗)
+
+```javascript
+const toggleTheme = () => {
+  document.body.classList.toggle("dark-mode");
+};
+```
+> (Just imagine it's working here 😉)
+
+---
+
+## 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nitish36&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nitish36&show_icons=true&theme=dracula&hide_border=true" alt="Nitish's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nitish36&theme=tokyo-night&area=true" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Nitish36&theme=neon-dark&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nitish36&show_icons=true&theme=dracula&hide_border=true" />
+  <br/>
+  <img width="600" src="https://stats.dooboo.io/api/github-stats-advanced?login=Nitish36" />
+  <br/>
+  <img width="720" src="https://stats.dooboo.io/api/github-trophies?login=Nitish36"/>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 Contribution Graph
+
 <p align="center">
-  <img src="https://stats.dooboo.io/api/github-trophies?login=Nitish36" width="800"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nitish36&theme=tokyo-night&area=true"/>
 </p>
 
 ---
 
-## 📊 Advanced Stats
-<p align="center">
-  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=Nitish36" />
+## 🛠️ Tech Stack
+
+### Languages & Tools
+<p>
+  <img height="40" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python1.svg"/>
+  <img height="40" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql1.svg"/>
+  <img height="40" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java3.svg"/>
+  <img height="40" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg"/>
+  <img height="40" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg"/>
+</p>
+
+### Databases & Sheets
+<p>
+  <img height="40" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLite/sqlite1.svg"/>
+  <img height="40" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb2.svg"/>
+  <img height="50" src="https://github.com/user-attachments/assets/62601dcc-7d5d-4655-9442-c7be9f275d64"/>
+  <img height="50" src="https://github.com/user-attachments/assets/0409423b-f861-47e3-aaab-15de8b43b76c"/>
+  <img height="50" src="https://github.com/user-attachments/assets/d917d3a7-05dd-40a3-89c4-9903cbc9d9a1"/>
+</p>
+
+### Frameworks & Visuals
+<p>
+  <img height="40" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flask/flask2.svg"/>
+  <img height="50" src="https://img.icons8.com/color/1x/numpy.png"/>
+  <img height="50" src="https://img.icons8.com/color/1x/pandas.png"/>
+  <img height="50" src="https://github.com/user-attachments/assets/ec0cd8e6-46db-4ea3-9bf9-584aceef14f2"/>
+  <img height="50" src="https://github.com/user-attachments/assets/0eaa94f0-f87e-44db-acc9-6c3277d9875c"/>
+</p>
+
+### IDEs & Tools
+<p>
+  <img height="40" src="https://img.icons8.com/fluency/1x/canva.png"/>
+  <img height="40" src="https://img.icons8.com/nolan/1x/sublime-text-new-logo.png"/>
+  <img height="40" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg"/>
+  <img height="40" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PyCharm/pycharm2.svg"/>
+</p>
+
+### APIs
+<p>
+  <img height="40" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/FastAPI/fastapi1.svg"/>
 </p>
 
 ---
 
-## 🧠 StackOverflow Insights
-[![Nitish's StackOverflow Profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/19821239?theme=cobalt&website=true&location=true)](https://stackoverflow.com/users/19821239/nitish-k)
-
----
-
-## 📬 Connect with Me
+## 🌐 Find Me Online
 
 <p>
-  <a href="https://www.linkedin.com/in/nitish-k-5431641b2/"><img src="https://img.icons8.com/fluency/48/linkedin.png" width="40"/></a>
-  <a href="https://wa.me/+917975722193"><img src="https://img.icons8.com/fluency/48/whatsapp.png" width="40"/></a>
-  <a href="https://www.kaggle.com/freeman007"><img src="https://img.icons8.com/ios-filled/50/kaggle.png" width="40"/></a>
-  <a href="https://stackoverflow.com/users/19821239/nitish-k"><img src="https://img.icons8.com/color/48/stackoverflow.png" width="40"/></a>
-  <a href="https://discord.com/channels/@me"><img src="https://img.icons8.com/color/48/discord.png" width="40"/></a>
+  <a href="https://www.linkedin.com/in/nitish-k-5431641b2/"><img height="50" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_linkedin-64.png"/></a>
+  <a href="https://www.kaggle.com/freeman007"><img height="50" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-64.png"/></a>
+  <a href="https://wa.me/+917975722193"><img height="50" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo-whatsapp-64.png"/></a>
+  <a href="https://stackoverflow.com/users/19821239/nitish-k"><img height="50" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/1x/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-shadow-tal-revivo.png"/></a>
+  <a href="https://discord.com/channels/@me"><img height="50" src="https://cdn0.iconfinder.com/data/icons/social-media-2475/128/discord_message_interaction_logo_communication-64.png"/></a>
 </p>
 
 ---
 
 ## 🏷️ Holopin Badges
-[![Nitish's Holopin Board](https://holopin.me/nitish36)](https://holopin.io/@nitish36)
 
----
+<a href="https://holopin.io/@nitish36"><img src="https://holopin.me/nitish36" alt="Nitish's Holopin board"></a>
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/Nitish36/count.svg" />
-  <br>
-  <i>Thanks for visiting my profile!</i>
 </p>
