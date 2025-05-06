@@ -41,6 +41,7 @@
 | [☕ Coffee Project](https://github.com/Nitish36/Coffee-Project) | Sales analytics & dashboarding for a coffee business |
 | [🇧🇷 Brazil Customer Analysis](https://github.com/Nitish36/Brazil-Customer-Analysis) | Customer behavior analysis with data visualization |
 | [🏠 Airbnb ETL](https://github.com/Nitish36/airbnb-etl) | Airbnb listings data pipeline and reporting using Prefect |
+| [🏠 Issue-Tracker-Jira](https://github.com/Nitish36/Issue-Tracker-Jira) | Issue Tracker Using Jira, Python and Smartsheet |
 
 🔗 [Visit my portfolio](https://nitish36.github.io/Nitish-Data-Analyst-Portfolio/)
 
