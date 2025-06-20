@@ -19,8 +19,6 @@
 
 🛠️ I’ve built projects with **web scraping**, **APIs**, and **automated pipelines** using **Selenium**, **FastAPI**, and **Looker Studio**. Published APIs on **RapidAPI**, and developed interactive dashboards.
 
-📱 Exploring app development with **Kivy** to build lightweight UIs with Python.
-
 
 ---
 
