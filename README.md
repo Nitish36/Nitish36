@@ -73,12 +73,12 @@ Currently, I work as a **Smartsheet Consultant at Huron Consulting Groups**, whe
 ## 🔥 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nitish36&show_icons=true&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nitish36&theme=tokyo-night&hide_border=true&background=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nitish36&show_icons=true&theme=tokyo-night&hide_border=true&bg_color=0D1117&text_color=ffffff&title_color=ffffff" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nitish36&theme=tokyo-night&hide_border=true&background=0D1117&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" width="48%" />
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nitish36&theme=tokyo-night&area=true&hide_border=true&bg_color=0D1117" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nitish36&theme=tokyo-night&area=true&hide_border=true&bg_color=0D1117&color=ffffff" width="100%" />
 </div>
 
 ---
