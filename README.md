@@ -1,143 +1,94 @@
----
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&width=435&lines=Hey!+I'm+Nitish+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!;Data+Analytics+%7C+Engineering+%7C+Visualization"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hey!+I'm+Nitish+%F0%9F%91%8B;Data+Engineer+%7C+Smartsheet+Consultant;Automating+workflows+with+Python+%26+APIs;Transforming+raw+data+into+insights" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img width="1280px "height="450px" src="https://github.com/user-attachments/assets/8b3bb78d-ee8f-4856-96ba-c93201aa3a57"/>
+  <img width="100%" src="https://github.com/user-attachments/assets/8b3bb78d-ee8f-4856-96ba-c93201aa3a57"/>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-🎓 I am a passionate and driven data professional with a Bachelor of Engineering in Computer Science and 1 year of hands-on experience in data analytics, data engineering, and operations.
+I am a **Data Engineer and Smartsheet Consultant** specializing in workflow automation, API integrations, and business intelligence. I bridge the gap between messy operations and streamlined, data-driven architecture. 
 
-🔍 I am actively seeking roles in **Data Analytics, Data Operations, Product Analysis, and Data Engineering**.
+Currently, I help enterprises automate governance and data pipelines, and I am always open to **freelance opportunities and contract roles** where I can save teams hundreds of hours of manual work.
 
-👨‍💻 I love transforming raw data into actionable insights using **Python, SQL, Prefect**, and **Power BI**, and building dashboards that fuel data-driven decisions.
-
-🛠️ I’ve built projects with **web scraping**, **APIs**, and **automated pipelines** using **Selenium**, **FastAPI**, and **Looker Studio**. Published APIs on **RapidAPI**, and developed interactive dashboards.
-
-
----
-
-## 🏅 Achievements
-
-- 🏆 **Star Performer** (JAS Quarter at DesignCafe) for designing a CT Allocation System.
-- 🌐 **Hacktoberfest 2023 Contributor** – Made 4 valid PRs.
-- 🚀 Published **4 APIs** on RapidAPI using **FastAPI**.
-
+- 💼 **What I do:** Smartsheet Architecture, Python Automation, ETL Pipelines, and Interactive Dashboarding.
+- 🛠️ **Current Focus:** Advanced API integrations (Jira/Smartsheet) and live data streaming (Prefect/FastAPI).
+- 📫 **How to reach me:** Drop me a message on [LinkedIn](https://www.linkedin.com/in/nitish-k-5431641b2/) or check out my [Portfolio](https://nitish36.github.io/Nitish-Data-Analyst-Portfolio/).
 
 ---
 
-## 📂 Projects
-
-| Project | Description |
-|--------|-------------|
-| [🌦️ Live Weather ETL](https://github.com/Nitish36/Live-WeatherData-ETL) | Real-time weather data ETL pipeline with Prefect, FastAPI & Looker Studio |
-| [☕ Coffee Project](https://github.com/Nitish36/Coffee-Project) | Sales analytics & dashboarding for a coffee business |
-| [🇧🇷 Brazil Customer Analysis](https://github.com/Nitish36/Brazil-Customer-Analysis) | Customer behavior analysis with data visualization |
-| [🏠 Airbnb ETL](https://github.com/Nitish36/airbnb-etl) | Airbnb listings data pipeline and reporting using Prefect |
-| [🏠 Issue-Tracker-Jira](https://github.com/Nitish36/Issue-Tracker-Jira) | Issue Tracker Using Jira, Python and Smartsheet |
-
-🔗 [Visit my portfolio](https://nitish36.github.io/Nitish-Data-Analyst-Portfolio/)
-
----
-
-## 💡 Toggle Dark / Light Mode (for fun 🌗)
-
-```javascript
-const toggleTheme = () => {
-  document.body.classList.toggle("dark-mode");
-};
-```
-> (Just imagine it's working here 😉)
-
----
-
-## 🔥 GitHub Stats
+## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Nitish36&theme=neon-dark&hide_border=true" />
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Nitish36&show_icons=true&theme=dracula&hide_border=true" />
+  <!-- Data & Automation -->
+  <img src="https://img.shields.io/badge/Smartsheet-005EB8?style=for-the-badge&logo=smartsheet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <br/>
-  <img width="600" src="https://stats.dooboo.io/api/github-stats-advanced?login=Nitish36" />
-  <br/>
-  <img width="720" src="https://stats.dooboo.io/api/github-trophies?login=Nitish36"/>
+  <!-- BI & Databases -->
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
 ---
 
-## 📊 Contribution Graph
+## 📂 Featured Projects
 
+| 🚀 Project | 📝 Description | 🛠️ Tech Stack |
+|--------|-------------|-------------|
+|[**🏠 Jira-Smartsheet Issue Tracker**](https://github.com/Nitish36/Issue-Tracker-Jira) | Automated issue-tracking ecosystem syncing Jira and Smartsheet dynamically. | `Python`, `Jira API`, `Smartsheet` |
+| [**🌦️ Live Weather ETL**](https://github.com/Nitish36/Live-WeatherData-ETL) | Real-time weather data scraping pipeline deployed with interactive visuals. | `Prefect`, `Selenium`, `PowerBI` |
+| [**☕ Coffee Sales Analytics**](https://github.com/Nitish36/Coffee-Project) | Automated flow of coffee market data into Looker Studio for revenue insights. | `Google Sheets`, `Looker`, `GitHub Actions` |
+| [**🇧🇷 Brazil Customer Analysis**](https://github.com/Nitish36/Brazil-Customer-Analysis) | Deep dive into e-commerce customer behavior using PySpark. | `PySpark`, `Tableau`, `Data Viz` |
+
+---
+
+## 🏅 Highlights & Achievements
+
+- 🏆 **Star Performer (DesignCafe):** Awarded for designing an automated Allocation System and building high-quality Smartsheet architecture.
+- 📜 **Certified:** Smartsheet Core Product Certified, Postman API Certified.
+- 🌐 **Hacktoberfest 2023 Contributor:** 4 Valid PRs merged.
+- 🚀 **API Developer:** Published 4 distinct APIs on RapidAPI using FastAPI.
+
+---
+
+## 🔥 GitHub Stats & Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nitish36&show_icons=true&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nitish36&theme=tokyo-night&hide_border=true&background=0D1117" width="48%" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nitish36&theme=tokyo-night&area=true&hide_border=true&bg_color=0D1117" width="100%" />
+</div>
+
+---
+
+
+🌐 Let's Connect!
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nitish36&theme=tokyo-night&area=true"/>
+<a href="https://www.linkedin.com/in/nitish-k-5431641b2/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://nitish36.github.io/Nitish-Data-Analyst-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=Google-chrome&logoColor=white" /></a>
+<a href="https://wa.me/+917975722193"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="https://www.kaggle.com/freeman007"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" /></a>
+<a href="https://discord.com/users/Nitish36"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
-
----
-
-## 🛠️ Tech Stack
-
-### Languages & Tools
-<p>
-  <img height="40" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python1.svg"/>
-  <img height="40" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql1.svg"/>
-  <img height="40" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java3.svg"/>
-  <img height="40" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg"/>
-  <img height="40" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg"/>
-</p>
-
-### Databases & Sheets
-<p>
-  <img height="40" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLite/sqlite1.svg"/>
-  <img height="40" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb2.svg"/>
-  <img height="50" src="https://github.com/user-attachments/assets/62601dcc-7d5d-4655-9442-c7be9f275d64"/>
-  <img height="50" src="https://github.com/user-attachments/assets/0409423b-f861-47e3-aaab-15de8b43b76c"/>
-  <img height="50" src="https://github.com/user-attachments/assets/d917d3a7-05dd-40a3-89c4-9903cbc9d9a1"/>
-</p>
-
-### Frameworks & Visuals
-<p>
-  <img height="40" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flask/flask2.svg"/>
-  <img height="50" src="https://img.icons8.com/color/1x/numpy.png"/>
-  <img height="50" src="https://img.icons8.com/color/1x/pandas.png"/>
-  <img height="50" src="https://github.com/user-attachments/assets/ec0cd8e6-46db-4ea3-9bf9-584aceef14f2"/>
-  <img height="50" src="https://github.com/user-attachments/assets/0eaa94f0-f87e-44db-acc9-6c3277d9875c"/>
-</p>
-
-### IDEs & Tools
-<p>
-  <img height="40" src="https://img.icons8.com/fluency/1x/canva.png"/>
-  <img height="40" src="https://img.icons8.com/nolan/1x/sublime-text-new-logo.png"/>
-  <img height="40" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg"/>
-  <img height="40" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PyCharm/pycharm2.svg"/>
-</p>
-
-### APIs
-<p>
-  <img height="40" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/FastAPI/fastapi1.svg"/>
-</p>
-
----
-
-## 🌐 Find Me Online
-
-<p>
-  <a href="https://www.linkedin.com/in/nitish-k-5431641b2/"><img height="50" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_linkedin-64.png"/></a>
-  <a href="https://www.kaggle.com/freeman007"><img height="50" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-64.png"/></a>
-  <a href="https://wa.me/+917975722193"><img height="50" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo-whatsapp-64.png"/></a>
-  <a href="https://stackoverflow.com/users/19821239/nitish-k"><img height="50" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/1x/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-shadow-tal-revivo.png"/></a>
-  <a href="https://discord.com/channels/@me"><img height="50" src="https://cdn0.iconfinder.com/data/icons/social-media-2475/128/discord_message_interaction_logo_communication-64.png"/></a>
-</p>
-
----
-
-## 🏷️ Holopin Badges
-
+<p align="center">
 <a href="https://holopin.io/@nitish36"><img src="https://holopin.me/nitish36" alt="Nitish's Holopin board"></a>
-
+</p>
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Nitish36/count.svg" />
+<img src="https://profile-counter.glitch.me/Nitish36/count.svg" alt="Profile Views" />
 </p>
