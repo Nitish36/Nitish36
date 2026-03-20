@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hey!+I'm+Nitish+%F0%9F%91%8B;Data+Engineer+%7C+Smartsheet+Consultant;Automating+workflows+with+Python+%26+APIs;Transforming+raw+data+into+insights" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hey!+I'm+Nitish+%F0%9F%91%8B;Smartsheet+Consultant+%40+Huron;Data+Engineer+%7C+Python+%26+APIs;Automating+enterprise+workflows" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -10,13 +10,13 @@
 
 ## 🚀 About Me
 
-I am a **Data Engineer and Smartsheet Consultant** specializing in workflow automation, API integrations, and business intelligence. I bridge the gap between messy operations and streamlined, data-driven architecture. 
+I am a **Computer Science Engineer, Data Analyst, and Smartsheet Consultant** specializing in enterprise workflow automation, API integrations, and robust data engineering. I bridge the gap between messy manual operations and streamlined, automated architecture.
 
-Currently, I help enterprises automate governance and data pipelines, and I am always open to **freelance opportunities and contract roles** where I can save teams hundreds of hours of manual work.
+Currently, I work as a **Smartsheet Consultant at Huron Consulting Groups**, where I build custom Python automation for Smartsheet Admin data, govern workspaces, and reconcile enterprise data. Previously, I drove operational efficiency at **DesignCafe** and built PySpark ETL pipelines at **Nineleaps Technology**.
 
-- 💼 **What I do:** Smartsheet Architecture, Python Automation, ETL Pipelines, and Interactive Dashboarding.
-- 🛠️ **Current Focus:** Advanced API integrations (Jira/Smartsheet) and live data streaming (Prefect/FastAPI).
-- 📫 **How to reach me:** Drop me a message on [LinkedIn](https://www.linkedin.com/in/nitish-k-5431641b2/) or check out my [Portfolio](https://nitish36.github.io/Nitish-Data-Analyst-Portfolio/).
+- 💼 **What I do:** Smartsheet Architecture (Control Center, Data Shuttle, WorkApps), Python Automation, ETL Pipelines, and BI Dashboarding.
+- 🛠️ **Current Focus:** Advanced API integrations (Jira/Smartsheet/Workday), web scraping, and live data pipelines utilizing Apache Airflow and Prefect.
+- 📫 **How to reach me:** Drop me a message on [LinkedIn](https://www.linkedin.com/in/nitish-k-5431641b2/) or check out my [Portfolio Website](https://nitish36.github.io/Nitish-Data-Analyst-Portfolio/).
 
 ---
 
@@ -27,19 +27,25 @@ Currently, I help enterprises automate governance and data pipelines, and I am a
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <br/>
   <!-- Data & Automation -->
   <img src="https://img.shields.io/badge/Smartsheet-005EB8?style=for-the-badge&logo=smartsheet&logoColor=white" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <br/>
-  <!-- BI & Databases -->
+  <!-- ETL & Databases -->
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prefect-FFFFFF?style=for-the-badge&logo=prefect&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <br/>
+  <!-- BI & Viz -->
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 
 ---
@@ -48,19 +54,19 @@ Currently, I help enterprises automate governance and data pipelines, and I am a
 
 | 🚀 Project | 📝 Description | 🛠️ Tech Stack |
 |--------|-------------|-------------|
-|[**🏠 Jira-Smartsheet Issue Tracker**](https://github.com/Nitish36/Issue-Tracker-Jira) | Automated issue-tracking ecosystem syncing Jira and Smartsheet dynamically. | `Python`, `Jira API`, `Smartsheet` |
-| [**🌦️ Live Weather ETL**](https://github.com/Nitish36/Live-WeatherData-ETL) | Real-time weather data scraping pipeline deployed with interactive visuals. | `Prefect`, `Selenium`, `PowerBI` |
-| [**☕ Coffee Sales Analytics**](https://github.com/Nitish36/Coffee-Project) | Automated flow of coffee market data into Looker Studio for revenue insights. | `Google Sheets`, `Looker`, `GitHub Actions` |
-| [**🇧🇷 Brazil Customer Analysis**](https://github.com/Nitish36/Brazil-Customer-Analysis) | Deep dive into e-commerce customer behavior using PySpark. | `PySpark`, `Tableau`, `Data Viz` |
+| **📊 Smartsheet Admin Governance** | Built Python automation handling API pagination/rate throttling to extract user, seat, and workspace metadata, consolidating 6+ months of historical data into leadership reports. | `Python`, `Smartsheet API`, `Connectors` |
+| [**🏠 Jira-Smartsheet Issue Tracker**](https://github.com/Nitish36/Issue-Tracker-Jira) | Automated issue-tracking ecosystem syncing Jira and Smartsheet via Data Shuttle and Control Center. Published full solution via Smartsheet WorkApps. | `Python`, `Jira REST APIs`, `Google Sheets` |
+| [**🌦️ Live Weather Data ETL**](https://github.com/Nitish36/Live-WeatherData-ETL) | Scraped live weather data from MS News, storing in MySQL and orchestrating via Prefect. Built interactive PowerBI dashboards and a RapidAPI endpoint. | `Prefect`, `Selenium`, `BeautifulSoup` |
+| [**☕ Coffee Market Insights**](https://github.com/Nitish36/Coffee-Project) | Scraped live coffee data, automating flow from Google Sheets to Smartsheet via Data Shuttle. Built Looker Studio/Power BI dashboards using GitHub Actions. | `Python`, `GitHub Actions`, `Looker` |
 
 ---
 
-## 🏅 Highlights & Achievements
+## 🏅 Highlights, Achievements & Certifications
 
-- 🏆 **Star Performer (DesignCafe):** Awarded for designing an automated Allocation System and building high-quality Smartsheet architecture.
-- 📜 **Certified:** Smartsheet Core Product Certified, Postman API Certified.
-- 🌐 **Hacktoberfest 2023 Contributor:** 4 Valid PRs merged.
-- 🚀 **API Developer:** Published 4 distinct APIs on RapidAPI using FastAPI.
+- 🏆 **Star Performer (Design Cafe):** Awarded for the JAS-24 and JFM-25 quarters for creating an Allocation-based program and building quality Smartsheet architecture for stakeholders.
+- 📜 **Smartsheet Core Product Certified**
+- 📊 **PowerBI Mastery Certified** (Udemy)
+- 🔌 **Postman API Certified** (Postman)
 
 ---
 
@@ -77,13 +83,12 @@ Currently, I help enterprises automate governance and data pipelines, and I am a
 
 ---
 
-
 🌐 Let's Connect!
 <p align="center">
 <a href="https://www.linkedin.com/in/nitish-k-5431641b2/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://nitish36.github.io/Nitish-Data-Analyst-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=Google-chrome&logoColor=white" /></a>
+<a href="https://nitish36.github.io/Portfolio-Website/"><img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=Google-chrome&logoColor=white" /></a>
+<a href="mailto:nitish.pkv@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://wa.me/+917975722193"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-<a href="https://www.kaggle.com/freeman007"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" /></a>
 <a href="https://discord.com/users/Nitish36"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 <p align="center">
@@ -92,3 +97,4 @@ Currently, I help enterprises automate governance and data pipelines, and I am a
 <p align="center">
 <img src="https://profile-counter.glitch.me/Nitish36/count.svg" alt="Profile Views" />
 </p>
+```
