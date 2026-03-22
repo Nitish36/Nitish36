@@ -72,14 +72,15 @@ Currently, I work as a **Smartsheet Consultant at Huron Consulting Groups**, whe
 
 ## 🔥 GitHub Stats & Activity
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nitish36&show_icons=true&theme=tokyo-night&hide_border=true&bg_color=0D1117&text_color=ffffff&title_color=ffffff" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nitish36&theme=tokyo-night&hide_border=true&background=0D1117&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" width="48%" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nitish36&theme=tokyo-night&area=true&hide_border=true&bg_color=0D1117&color=ffffff" width="100%" />
-</div>
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Nitish36&theme=neon-dark&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nitish36&show_icons=true&theme=dracula&hide_border=true" />
+  <br/>
+  <img width="600" src="https://stats.dooboo.io/api/github-stats-advanced?login=Nitish36" />
+  <br/>
+  <img width="720" src="https://stats.dooboo.io/api/github-trophies?login=Nitish36"/>
+</p
 
 ---
 
